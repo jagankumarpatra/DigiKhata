@@ -4,12 +4,6 @@
 
 ### Open-source MSME Merchant Ledger API with AI-Powered Payment Reminders
 
-[![Node.js](https://img.shields.io/badge/Node.js-18+-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.5-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-[![MongoDB](https://img.shields.io/badge/MongoDB-8.x-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com)
-[![Redis](https://img.shields.io/badge/Redis-7.x-DC382D?style=flat&logo=redis&logoColor=white)](https://redis.io)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
 **India has 60M+ MSMEs still managing their books on paper.**
 DigiKhata is a production-grade backend that digitises their ledger, automates payment reminders, and generates PDF account statements — built on the same patterns powering apps like Khatabook.
 
